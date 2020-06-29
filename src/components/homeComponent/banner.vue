@@ -72,8 +72,8 @@ h1.title,h2.slogan{ font-size: 37px;
     bottom: 0;
     padding: 10px 20px;
     margin: 0;}
-.hero.is-grey{ background: url("http://www.ascentsolution.com/img/home-slider/banner-1.png") no-repeat;  background-size:100% auto;}
-.hero.is-dark{ background: url("http://www.ascentsolution.com/img/home-slider/banner-2.png") no-repeat; background-size:100% auto;}
-.hero.is-primary{ background: url("http://www.ascentsolution.com/img/home-slider/banner-3.png") no-repeat; background-size:100% auto;}
-.hero.is-info{ background: url("http://www.ascentsolution.com/img/home-slider/banner-4.png") no-repeat; background-size:100% auto;}
+.hero.is-grey{ background: url("https://images.unsplash.com/photo-1507099985932-87a4520ed1d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80") no-repeat;  background-size:100% 100%;}
+.hero.is-dark{ background: url("https://images.unsplash.com/photo-1568598035424-7070b67317d2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1349&q=80") no-repeat; background-size:100% 100%;}
+.hero.is-primary{ background: url("https://images.unsplash.com/photo-1542744095-fcf48d80b0fd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1355&q=80") no-repeat; background-size:100% 100%;}
+.hero.is-info{ background: url("https://images.unsplash.com/photo-1455849318743-b2233052fcff?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80") no-repeat; background-size:100% 100%;}
 </style>>

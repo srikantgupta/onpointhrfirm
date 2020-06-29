@@ -6,7 +6,28 @@
   </div>
 </div>
     <div>
-        <h1>Contact Component</h1>
+      
+
+<div class="section_title">
+        <h2>Our Vision</h2>
+        <div class="line"></div>
+    </div>
+<div class="padding_20 home_content text-left">
+    <p>At SAR, our vision is to partner with
+premier clients with the intention of providing
+
+</p>
+<ul>
+  <li>Commitment to our work</li>
+	<li>Believe in team work</li>
+	<li>Accountability of our work and being professional in everything  </li>       
+  <li>we do Maintaining Integrity</li>
+
+  </ul>
+</div>
+
+
+
         <ul class="contact_us">
             <li>
                 <h3>308, IIIrd Floor, Classic Airport Tower,Plot No.15, Sector-10, Central Market, Dwarka, New Delhi-110075</h3>
@@ -39,6 +60,9 @@
     }
 </script>
 <style>
+.padding_20{ padding:0 3%}
+.text-left{ text-align:left;}
+.home_content p{ font-size: 24px; font-weight:bold;}
 .about_content{background: #d3a511;
     padding: 29px 0px;}
  .about_content h1{
@@ -61,8 +85,8 @@ iframe{height: 350px;}
 
 }
 .bgimg-3 {
-  background: gray url(https://www.emagine.co.in/slider-image-1.e4a236bbb7e4c8c99c95.jpg) repeat 0 0;
-  background-size: 100%;
+  background: gray url(https://images.unsplash.com/photo-1475691058852-37b5d9b6a878?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80) repeat 0 0;
+  background-size: 100% 110%;
     width: 100%;
   margin: 0;
   text-align: center;

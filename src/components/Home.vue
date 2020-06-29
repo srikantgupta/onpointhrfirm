@@ -4,12 +4,7 @@
         <!--<h1 class="is-danger">Home Component</h1>-->
         
         <bannerSlider />
-        <contentComponent />
-       
-        
-
-        
-        
+        <contentComponent />  
     </div>
 </template>
 

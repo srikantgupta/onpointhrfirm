@@ -15,8 +15,32 @@
 
 <div style="color: #777;background-color:white;text-align:center;padding:0px;text-align: justify;">
  <div class="about_content">
-    <h1>Find the Solution That Best Fits Your Business</h1>
+    <h1>Making Value and Career Building</h1>
 </div>
+<div class="section_title">
+        <h2>ONPONT HR</h2>
+        <div class="line"></div>
+    </div>
+<div class="container home_content">
+    <p>On Point HR is an executive search firm with headquarters located in Sonepat. We have established an excellent track record
+in the IT, ITES, Banking, Finance, Manufacturing, Pharmaceuticals, Hotel & Aviation and Telecommunication sectors.
+</p>
+</div>
+
+<div class="section_title">
+        <h2>Why On Point HR Firm </h2>
+        <div class="line"></div>
+    </div>
+<div class="container home_content">
+    <p>At On Point HR, we believe that we are
+an extension of our client’s HR
+team and must perform as a responsible
+representative of their organization.
+</p>
+</div>
+
+
+
 <h4 style="text-align:center;"><i class="fa fa-question-circle" style="font-size:48px;color:#d3a511"></i></h4>
   <h3 style="text-align:center;" class="why_heading animated lightSpeedIn">Why ON POINT HR FIRM ?</h3>
   <ul class="why_section">
@@ -226,18 +250,19 @@
 
     i{text-shadow: 2px 2px 3px #d3a511; animation:blink 0.5s infinite;}
     h3.why_heading{ color:#d3a511; text-shadow: 2px 2px 2px #000; font-size:34px; font-weight:bold; letter-spacing:0.5px; border-bottom:4px solid #d3a511; margin-bottom:20px;}
-     ul.why_section{list-style:none; width:100%; display:inline-block;}
+     ul.why_section{list-style:none; width:100%; display:inline-block; text-align:center;}
      ul.why_section li{ display: inline-block;
-    width: 26%;
+    width: 296px;
     min-height: 221px;
     margin-left: 56px;
     margin-bottom: 43px;
     border: 2px solid #d3a511;
     vertical-align: top;
-    padding: 3% 3%;
+    padding: 36px;
     border-radius: 50%;
     box-shadow: 0px 0px 8px #000000;
-    text-align: center;}
+    text-align: center;
+}
     
     @keyframes blink{
 0%{		color: #d3a511;	}
@@ -320,12 +345,12 @@
 }
 
 .bgimg-2 {
-	background-image: url("http://www.ascentsolution.com/img/home-slider/testimonial-banner-1.jpg");
+	background-image: url("https://images.unsplash.com/photo-1417632993443-302f4897cf67?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80");
   
   min-height: 400px;
 }
 .bgimg-21 {
-	background-image: url("http://www.ascentsolution.com/img/home-slider/banner-1.png");
+	background-image: url("https://images.unsplash.com/photo-1434030216411-0b793f4b4173?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80");
   padding-top: 10px;
   min-height: 400px;
 }
@@ -351,6 +376,7 @@
    
     -webkit-animation: 80s linear infinite marquee;
 } */
+.home_content p{ font-size: 24px; font-weight:bold;}
 .bgimg-3 {
 background-image: url(http://www.ascentsolution.com/img/home-slider/banner-4.png);
     height: 50vh;

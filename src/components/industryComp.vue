@@ -8,10 +8,14 @@
    <div>
    
                 <div class="section_title">
-                    <h2>Industry Practices</h2>
-                   
-                    <p>Ipsum is simply text of the stry simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply text of the. Lorem Ipsum is  simply my text of the printing and Ipsum is simply text of the Ipsum is simply text of thetypesetting Ipsum is simply.</p>
+                    <h2>Management Profile</h2>
+                   <div class="container home_content">
+                    <p>Our team carries experience in – sales, marketing, human resources, finance and operations.
+TEAM On Point HR Firm shares a common characteristic: a passion to excel. This is precisely reflected by our dedication to understand our client’s business processes. That again is the reason why we invest time and energies into building long-term relationships with professionals and assist them in fulfilling their career aspirations. This results in highly customized service offering.
+</p>
+                   </div>
                 </div>
+                
                 <ul class="practice_inner">
                     <li>
                         <div class="practice_item">
@@ -129,9 +133,9 @@
   background-size: cover;
 
 }
-.bgimg-3 {
-    background: gray url(https://www.emagine.co.in/slider-image-1.e4a236bbb7e4c8c99c95.jpg) repeat 0 0;
-  background-size: 100%;
+ .bgimg-3 {/*background: gray url(https://images.unsplash.com/photo-1578988247672-da7397b0b2d8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1286&q=80) repeat 0 0; */
+    background: gray url(https://images.unsplash.com/photo-1507668077129-56e32842fceb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80) repeat 0 0;
+  background-size: 100% 100%;
     width: 100%;
   margin: 0;
   text-align: center;
@@ -194,4 +198,5 @@
     text-align: center;
     padding: 20px 0;
 }
+.home_content p{ font-size: 24px; font-weight:bold;}
 </style>>

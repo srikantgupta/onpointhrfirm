@@ -12,10 +12,18 @@
 <img src="http://www.ascentsolution.com/img/about.png">
 <div class="about_des">
     <h2>ABOUT <span>Us</span></h2>
-    <span>WELCOME TO ASCENT HUMAN SOLUTION (P) LIMITED</span>
-    <p>Ascent Human Solution (P) Limited is a 20 years old leading HR company in India offering end-to-end Human Resources Management Services and have been serving its clients include MNCs and Big Indian Corporate. </p>
-    <p>We are a team of dedicated HR professionals with expertise in Executive Search &amp; Select, HR Advisory, Payroll &amp; Labour Laws Compliances and Industrial Relations. With a team of skilled and passionate HR professionals, understanding client requirements in depth is a day to day task for us. We recognize that each organization has unique needs and we design solutions as per their need.</p>
-    <p>Ascent Human Solutions has been awarded for its work many a times – Ascent had been awarded for its Exemplary Performance...</p>
+    <span>WELCOME TO ON POINT HR (P) LIMITED</span>
+    <p>At On Point HR Firm we sincerely believe in rising above through innovative hiring and engaging with the most powerful asset on earth “PEOPLE”
+Our Philosophy is “To blend talent and passion for our client’s success”
+We are an extension of our client’s HR team and must perform as a responsible representative of their organization.
+
+</p>
+<ul>
+  <li>	Management Profile </li>
+	<li>Vision & Mission</li>
+	<li>Core Values</li>
+
+</ul>
 </div>
 </div>
 
@@ -111,7 +119,7 @@ background-image: url(http://mdbootstrap.com/img/Photos/Others/nature4.jpg);
     -webkit-animation: 80s linear infinite marquee;
 } */
 .bgimg-3 {
-  background: gray url(https://www.emagine.co.in/slider-image-1.e4a236bbb7e4c8c99c95.jpg) repeat 0 0;
+  background: gray url(https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80) repeat 0 0;
   background-size: 100%;
     width: 100%;
   margin: 0;
