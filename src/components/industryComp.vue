@@ -13,6 +13,14 @@
                     <p>Our team carries experience in – sales, marketing, human resources, finance and operations.
 TEAM On Point HR Firm shares a common characteristic: a passion to excel. This is precisely reflected by our dedication to understand our client’s business processes. That again is the reason why we invest time and energies into building long-term relationships with professionals and assist them in fulfilling their career aspirations. This results in highly customized service offering.
 </p>
+<p>At SAR, our vision is to partner with premier clients with the intention of providing</p>
+<ul>
+    <li>Commitment to our work</li>
+	<li>Believe in team work</li>
+	<li>Accountability of our work and being professional in everything</li>
+    <li>we do Maintaining Integrity</li>
+	<li>Quick response on the given requisition with the right fit.</li>
+</ul>
                    </div>
                 </div>
                 
@@ -199,4 +207,25 @@ TEAM On Point HR Firm shares a common characteristic: a passion to excel. This i
     padding: 20px 0;
 }
 .home_content p{ font-size: 24px; font-weight:bold;}
+@media only screen and (max-width: 767px) {
+.bgimg-3{ background-size:100% 100%; height:auto;}
+.section_title h2{font-size: 26px;}
+span.subpage_heading {
+    font-size: 22px;}
+    .section_title p{ line-height:20px;}
+    .practice_inner li {
+    width: 78%;
+    display: inline-block;
+     margin-right: 0%; 
+    margin-bottom: 7%;}
+}
+
+@media only screen and (max-width: 480px) {
+
+}
+
+
+@media only screen and (min-width: 640px) and (max-width: 767px) {
+
+}
 </style>>

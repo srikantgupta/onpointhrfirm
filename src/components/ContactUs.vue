@@ -30,22 +30,22 @@ premier clients with the intention of providing
 
         <ul class="contact_us">
             <li>
-                <h3>308, IIIrd Floor, Classic Airport Tower,Plot No.15, Sector-10, Central Market, Dwarka, New Delhi-110075</h3>
+                <h3>212,sector-14,Sonipat <br/>(Haryana)</h3>
                
             </li>
              <li>
             
                 <h3>	
-                        info@ascentsolution.com
-                        cv@ascentsolution.com
-                        mail@ascentsolution.com</h3>
+                        info@ascentsolution.com</h3>
+                        <h3>cv@ascentsolution.com</h3>
+                        <h3>mail@ascentsolution.com</h3>
             </li>
-            <li><h3> <a href="#">+91-11-25074065</a>
-                                        <a href="#">+91-9899990261</a>
-                                        <a href="#">+91-8447755155</a></h3>
+            <li><h3> <a href="#">+91-11-25074065</a></h3>
+                                        <h3><a href="#">+91-9899990261</a></h3>
+                                       <h3> <a href="#">+91-8447755155</a></h3>
             </li>
         </ul>
-        <div>
+        <div class="map_section">
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d872.3596995871641!2d77.02861492918124!3d29.0039965718035!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390db184f66b386d%3A0x6ed4280ee592fa1a!2sVikram%20Palace!5e0!3m2!1sen!2sus!4v1592425772427!5m2!1sen!2sus" width="100%"  frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
         </div>
     <div class="about_content">
@@ -110,4 +110,33 @@ text-align:center; padding:40px 0px; margin:20px 0px;opacity:0.7; z-index:-1;
 }
 ul.contact_us li h3{text-transform: lowercase; font-size:14px;}
 ul.contact_us li{ min-height:200px; vertical-align: text-bottom;  z-index:1;  display:inline-block; width:29%; background:rgba(59,59,61, 0.8); color:#ffffff !important; margin-right:20px; text-align:left; padding:2%; box-sizing:border-box;}
+@media only screen and (max-width: 767px) {
+.bgimg-3{    background-size: 100% 100%;    height: 150px;}
+span.subpage_heading {
+    font-size: 19px;}
+     ul.contact_us {
+    margin: 3%;
+    padding: 0;
+    width: auto;}
+    ul.contact_us li{        width: 78%;
+    height: auto;
+    /* color: #ffffff !important; */
+    min-height: auto;
+    word-break: break-all;
+    padding: 12%;}
+    ul.contact_us li h3, ul.contact_us li a{    color: #ffffff;
+    text-transform: lowercase;
+    letter-spacing: 0px;}
+    .about_content h1{font-size: 22px;}
+    .map_section{padding:2%}
+}
+
+@media only screen and (max-width: 480px) {
+
+}
+
+
+@media only screen and (min-width: 640px) and (max-width: 767px) {
+
+}
 </style>

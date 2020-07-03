@@ -10,7 +10,7 @@
                     <div class="hero-body has-text-centered">
                             <div class="half-circle"></div>
                             <div class="banner_content">
-                            <h2 class="slogan animated fadeInDownBig">{{carousel.slogan}}</h2>
+                            <!--<h2 class="slogan animated fadeInDownBig">{{carousel.slogan}}</h2>-->
                             <h1 class="title animated fadeInUpBig">{{carousel.title}}</h1>
                             </div>
                         
@@ -29,10 +29,10 @@ export default {
             progress: true,
             progressType: 'is-primary',
             carousels: [
-                { title: 'TOP COMPANIES ON OUR MARKETPLACE', color: 'grey' , slogan: 'we are here for help you' },
-                { title: 'TOP COMPANIES ON OUR MARKETPLACE', color: 'dark' , slogan: 'we are here for help you' },
-                { title: 'TOP COMPANIES ON OUR MARKETPLACE', color: 'primary', slogan: 'we are here for help you' },
-                { title: 'TOP COMPANIES ON OUR MARKETPLACE', color: 'info', slogan: 'we are here for help you' }
+                { title: 'Let us “build” a job for you', color: 'grey' , slogan: 'we are here for help you' },
+                { title: 'Exceed your potential… come join us!', color: 'dark' , slogan: 'we are here for help you' },
+                { title: 'Come for the job… stay for the challenge', color: 'primary', slogan: 'we are here for help you' },
+                { title: 'We make work an adventure', color: 'info', slogan: 'we are here for help you' }
             ]
         }
     }
@@ -76,4 +76,17 @@ h1.title,h2.slogan{ font-size: 37px;
 .hero.is-dark{ background: url("https://images.unsplash.com/photo-1568598035424-7070b67317d2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1349&q=80") no-repeat; background-size:100% 100%;}
 .hero.is-primary{ background: url("https://images.unsplash.com/photo-1542744095-fcf48d80b0fd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1355&q=80") no-repeat; background-size:100% 100%;}
 .hero.is-info{ background: url("https://images.unsplash.com/photo-1455849318743-b2233052fcff?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80") no-repeat; background-size:100% 100%;}
+
+@media only screen and (max-width: 767px) {
+.half-circle{ display:none;}
+h1.title{font-size: 24px;  padding:0px;}
+.banner_content{margin-left: 0;}
+}
+
+@media only screen and (max-width: 480px) {
+
+}
+@media only screen and (min-width: 640px) and (max-width: 767px) {
+
+}
 </style>>

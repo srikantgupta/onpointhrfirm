@@ -20,18 +20,23 @@ We are an extension of our client’s HR team and must perform as a responsible 
 </p>
 <ul>
   <li>	Management Profile </li>
-	<li>Vision & Mission</li>
+	<li>Vision &amp; Mission</li>
 	<li>Core Values</li>
 
 </ul>
+<span>
+  We do Recruit for overseas into Contract staffing
+</span>
+<p>We are a team of dedicated HR professionals with expertise in Executive Search &amp; Select, HR Advisory, Payroll &amp; Labour Laws Compliances and Industrial Relations. With a team of skilled and passionate HR professionals, understanding client requirements in depth and provide one step solution to them is our prime goal .We recognize that each organization has unique needs and we design solutions as per their need.</p>
+<p>We commit to provide Exemplary Performance for all levels.</p>
 </div>
 </div>
 
-<div style="position:relative;">
+<!--<div style="position:relative;">
   <div style="color:#ddd;background-color:#282E34;text-align:center;padding:50px 80px;text-align: justify;">
   <p>Scroll up and down to really get the feeling of how Parallax Scrolling works.</p>
   </div>
-</div>
+</div>-->
 
 
 
@@ -168,5 +173,31 @@ h3 {
   .bgimg-1, .bgimg-2, .bgimg-3 {
     background-attachment: scroll;
   }
+}
+@media only screen and (max-width: 767px) {
+.about_content2 img{ display:none;}
+.about_des{width: 100%;}
+.about_des h2, .about_des h2 span{    font-size: 24px; margin-bottom:0px;}
+.about_content h1{
+    font-size: 15px;}
+    .about_des span{
+    font-weight: 600;
+    font-size: 16px;}
+    .bgimg-3{    background-size: 100% auto;    height: auto;}
+}
+
+@media only screen and (max-width: 480px) {
+
+}
+
+/*		Wide Mobile Layout: 480px.
+		Gutters: 24px.
+		Outer margins: 22px.
+		Inherits styles from: Default Layout, Mobile Layout.
+------------------------------------------------------------
+cols    1     2      3      4      5
+px      68    160    252    344    436    */
+@media only screen and (min-width: 640px) and (max-width: 767px) {
+
 }
 </style>
