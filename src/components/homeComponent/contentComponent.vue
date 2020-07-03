@@ -18,12 +18,14 @@
     <h1>Making Value and Career Building</h1>
 </div>
 <div class="section_title">
-        <h2>ONPONT HR</h2>
+        <h2>ONPOINT HR</h2>
         <div class="line"></div>
     </div>
 <div class="container home_content">
-    <p>On Point HR is an executive search firm with headquarters located in Sonepat. We have established an excellent track record
-in the IT, ITES, Banking, Finance, Manufacturing, Pharmaceuticals, Hotel & Aviation and Telecommunication sectors.
+    <p>On Point HR is an executive search firm with headquarters located in Sonepat(Haryana). 
+        We have established an excellent track record in the IT, ITES, Consumer durable,FMCG &amp; Retailing, 
+        Banking,Automobile Engineering,Healthcare, Edu-Tech, FMCG, Finance &amp; Banking, Manufacturing, Pharmaceuticals, Healthcare &amp; 
+        Lifesciences, Telecommunication, Hospitality &amp; Aviation, Insurance ,Education &amp; Social sectors across all levels
 </p>
 </div>
 
@@ -53,7 +55,7 @@ representative of their organization.
 
      <li class="animated fadeInUpBig"><i class="fa fa-clock-o" aria-hidden="true"></i> <h4>Time Saving</h4></li>
     <li class="animated fadeInUpBig"><i class="fa fa fa-stop-circle" aria-hidden="true"></i> <h4>One Step Solution</h4></li>
-    <li class="animated fadeInUpBig"><i class="fa fa-signal" aria-hidden="true"></i> <h4>Trused Service</h4></li>
+    <li class="animated fadeInUpBig"><i class="fa fa-signal" aria-hidden="true"></i> <h4>Trusted Service</h4></li>
   </ul>
 </div>
 
@@ -75,9 +77,8 @@ representative of their organization.
                                 <div class="media-body">
                                     <h4>Recruitment Solutions<br><small>(Executive Search, Permanent Recruitment &amp; Temp Staffing)</small></h4>
 
-                                    <p>Ascent is the preferred choice HR vendor for recruitment solutions for large
-                                        number of clients across India. We have provided innovative and Superior
-                                    Recruitment Services to over 100+ clients since our inception.</p>
+                                    <p>On Point is the preferred choice HR vendor for recruitment solutions for large number of clients across India. We have provided innovative and 
+                                        accurate Recruitment Services to our clients since our inception.</p>
                                     
                                 </div>
                             </div>
@@ -90,11 +91,10 @@ representative of their organization.
                                     <img src="http://www.ascentsolution.com/img/icon/recuritment.png" alt="">
                                 </div>
                                 <div class="media-body">
-                                    <a href="#"><h4>Payroll & Compliance Management Solutions</h4></a>
+                                    <a href="#"><h4>Payroll &amp; Compliance Management Solutions</h4></a>
 
-                                    <p>We are the leading Payroll Processing Vendor for many companies and provide the best HR Solutions. 
-                                    We are amongst the best payroll service provider which offers a complete payroll management system in India. 
-                                    We provide payroll services.</p>
+                                    <p>We are the Payroll Processing Vendor for many companies and provide the best HR Solutions. We are amongst the best payroll service provider which offers a complete payroll management 
+                                        system in India. Hence, we are open for Payroll management</p>
                                    
                                 </div>
                             </div>
@@ -109,8 +109,8 @@ representative of their organization.
                                 <div class="media-body">
                                     <a href="#"><h4>Labour Laws &amp; Statutory Compliances <br><small>Advisory , Implementation &amp; Maintenance of Labour Laws</small></h4></a>
 
-                                    <p>Ascent Human Solution specializes in providing consulting services of Labour Law Support Service to Companies to grow further by removing hurdles of labour problems. 
-                                    At Ascent, we provide Consultancies to companies with regards.</p>
+                                    <p>On Point HR specializes in providing consulting services of labour Law Support Service to Companies to grow further by removing interruption of labour problems. 
+                                        We provide Consultancies to companies with regards.</p>
                                    
                                 </div>
                             </div>
@@ -125,8 +125,8 @@ representative of their organization.
                                 <div class="media-body">
                                     <a href="#"><h4>HR Consulting Services <br> <small>hr consult</small></h4></a>
 
-                                   <p>The world today is changing constantly while propelling a plethora of opportunities in a constantly evolving industry scenario. With buzzwords like Agile, 
-                                   Cloud Computing and Robotic Process Automation doing the rounds.</p>
+                                   <p>The world today is changing constantly 
+                                       while propelling a plethora of opportunities in a constantly evolving industry scenario</p>
                                    
                                 </div>
                             </div>
@@ -141,8 +141,7 @@ representative of their organization.
                                 <div class="media-body">
                                     <a href="#"><h4>Campus Hiring</h4></a>
 
-                                    <p>Campus hiring is the most effective way to hire fresh graduates. We are connected with many top most educational institutions across India, thereby we give you the options of choosing the most talented personnel from a vast pool of young talent; whereas, students can also enjoy an equal degree of advantage by getting a job-offer while still in college. Moreover, by this process 
-                                    we help the companies in saving a lot of time and costly affairs such as advertising and screening.</p>
+                                    <p>We do campus hiring for entry level positions for fresh graduates.</p>
                                    
                                 </div>
                             </div>
@@ -157,8 +156,8 @@ representative of their organization.
                                 <div class="media-body">
                                     <a href="#"><h4>Executive Search</h4></a>
 
-                                    <p>We have a proven track record of helping our clients identify and hire executive leadership through our executive job search services. We take time to understand culture of your organization & business challenges. We do market research & use our extensive network to find the right candidate. 
-                                    Our advantage based in having business intelligence & extensive network.</p>
+                                    <p>We have a proven track record of helping our clients identify and hire executive leadership through our executive job search services. We take time to understand culture of your organization &amp; business challenges. We do market research &amp; use our extensive network to find the right fit. 
+                                        Our advantage is to provide the right fit for the particular requisition on the given TAT time.</p>
                                    
                                 </div>
                             </div>
@@ -172,11 +171,11 @@ representative of their organization.
 
 </div>
 
-<div style="position:relative;">
+<!--<div style="position:relative;">
   <div style="color:#ddd;background-color:#282E34;text-align:center;padding:50px 80px;text-align: justify;">
   <p>Scroll up and down to really get the feeling of how Parallax Scrolling works.</p>
   </div>
-</div>
+</div>-->
 
 <div class="bgimg-21">
     <div class="section_title">
@@ -185,7 +184,7 @@ representative of their organization.
         <p>The world today is changing constantly while propelling a plethora of opportunities in a constantly evolving industry scenario. With buzzwords like Agile, Cloud Computing and Robotic Process Automation doing the rounds, 
         the human element still holds an irreplaceable position in the industry today.</p>
         <p>Hence the need for a strong and competent HR modus operandi now more than ever before. To make your journey simple, Ascent Human Solutions steps into provide support as an Expert Resource Consultant and a Process Consultant, 
-        covering a wide range of areas from organizational design to Compensation and Benefits structuring, Diversity & Inclusion, Employee Engagement, Performance Management, HR policies, and training; 
+        covering a wide range of areas from organizational design to Compensation and Benefits structuring, Diversity &amp; Inclusion, Employee Engagement, Performance Management, HR policies, and training; 
         providing the necessary inputs and resources such as White Papers/Research reports/Presentations to help establish such HR processes.</p>
         <p>As a resource and process partner, we believe in the balancing act – slow and steady while understanding your needs and yet hit the ground running once the needs are understood; 
         with a well-thought-out-strategy in place.</p>
@@ -425,4 +424,52 @@ h3 {
     background-attachment: scroll;
   }
 }
+/*		Mobile Layout: 320px.
+		Gutters: 24px.
+		Outer margins: 34px.
+		Inherits styles from: Default Layout.
+---------------------------------------------
+cols    1     2      3
+px      68    160    252    */
+@media only screen and (max-width: 767px) {
+.service_inner .service_content{ width:100%; margin:0px;}
+ul.why_section li{ margin-left:0px;}
+.why_heading{font-size: 24px;
+    line-height: 54px;}
+    .section_title h2{font-size: 25px;}
+    .home_content p{font-size: 15px;}
+    #footer_component .navbar{ display:none;}
+    .media{display: inline-block;text-align: center;}
+    .service_item .media .media-left{padding-right: 20px;
+    position: relative;
+    padding: 0;
+    margin: 0;display:inline-block;}
+    .media-left, .media-right, .media-body{ display:inline-block;}
+    .touch_block, .hiring_block{width: 100%;
+    display: inline-block;
+    padding: 3%;}
+    .home_content p{font-size: 13px !important;
+    font-weight: normal;padding: 4%;word-break: break-all;}
+    .why_heading {font-size: 23px !important;}
+    ul.why_section li{    min-height: 169px;}
+    ul.why_section li h4 {
+   
+    font-size: 18px;}
+}
+
+@media only screen and (max-width: 480px) {
+
+}
+
+/*		Wide Mobile Layout: 480px.
+		Gutters: 24px.
+		Outer margins: 22px.
+		Inherits styles from: Default Layout, Mobile Layout.
+------------------------------------------------------------
+cols    1     2      3      4      5
+px      68    160    252    344    436    */
+@media only screen and (min-width: 640px) and (max-width: 767px) {
+
+}
+
 </style>
