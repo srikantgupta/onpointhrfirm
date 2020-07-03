@@ -83,7 +83,7 @@ export default {
 </script>
 
 <style>
-.navbar-item.logo.router-link-exact-active.router-link-active:hover{border:none;}
+.navbar-item.logo.router-link-exact-active.router-link-active:hover{border:none !important;}
 span.subpage_heading{
   font-size: 37px;
     font-weight: 700;
@@ -189,12 +189,14 @@ px      68    160    252    344    436    528    620    712    */
 cols    1     2      3
 px      68    160    252    */
 @media only screen and (max-width: 767px) {
+  
   .scroll-fixed-header .navbar{background: #012834; }
+  .navbar-item.router-link-exact-active.router-link-active{border-bottom: 2px solid #d3a511}
 .scroll-fixed-header .navbar .navbar-end a.navbar-item{
     padding: 2%;
     width: 100%;
     margin: 0;
-    height: auto;}
+    height: auto;border-bottom: 2px solid #ffffff}
 .navbar-menu{
   position: absolute !important;
     width: 100%;
