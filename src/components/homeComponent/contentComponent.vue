@@ -30,7 +30,7 @@
 </div>
 
 <div class="section_title">
-        <h2>Why On Point HR Firm </h2>
+        <h2>Why On Point HR </h2>
         <div class="line"></div>
     </div>
 <div class="container home_content">
@@ -44,7 +44,7 @@ representative of their organization.
 
 
 <h4 style="text-align:center;"><i class="fa fa-question-circle" style="font-size:48px;color:#d3a511"></i></h4>
-  <h3 style="text-align:center;" class="why_heading animated lightSpeedIn">Why ON POINT HR FIRM ?</h3>
+  <h3 style="text-align:center;" class="why_heading animated lightSpeedIn">Why ON POINT HR ?</h3>
   <ul class="why_section">
     <li class="animated fadeInUpBig"><i class="fa fa-handshake-o" aria-hidden="true"></i> <h4>Dedicated Partnership</h4></li>
     <li class="animated fadeInUpBig"><i class="fa fa-usd" aria-hidden="true"></i> <h4>Cost Saving</h4></li>
@@ -278,7 +278,7 @@ representative of their organization.
       .media-body p{ font-size:14px; font-weight: bold; color: #ffffff;}
       .section_title h2 {
           text-shadow: 1px 4px 12px #000;
-    font-size: 28px;
+    font-size: 21px !important;
     color: #ffffff;
     text-align: left;
     font-weight: bold;
@@ -437,7 +437,6 @@ ul.why_section li{ margin-left:0px;}
 .why_heading{font-size: 24px;
     line-height: 54px;}
     .section_title h2{font-size: 25px;}
-    .home_content p{font-size: 15px;}
     #footer_component .navbar{ display:none;}
     .media{display: inline-block;text-align: center;}
     .service_item .media .media-left{padding-right: 20px;
@@ -449,12 +448,14 @@ ul.why_section li{ margin-left:0px;}
     display: inline-block;
     padding: 3%;}
     .home_content p{font-size: 13px !important;
-    font-weight: normal;padding: 4%;word-break: break-all;}
+    font-weight: normal !important;padding: 4%;word-break: break-all;}
     .why_heading {font-size: 23px !important;}
     ul.why_section li{    min-height: 169px;}
     ul.why_section li h4 {
    
     font-size: 18px;}
+    .about_content h1{font-size: 14px !important;
+    line-height: 0;}
 }
 
 @media only screen and (max-width: 480px) {
