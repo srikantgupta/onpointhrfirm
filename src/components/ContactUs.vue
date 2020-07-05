@@ -36,13 +36,13 @@ premier clients with the intention of providing
              <li>
             
                 <h3>	
-                        info@ascentsolution.com</h3>
-                        <h3>cv@ascentsolution.com</h3>
-                        <h3>mail@ascentsolution.com</h3>
+                        hr@onpointhr.in</h3>
+                        <h3>sales@onpointhr.in</h3>
+                        
             </li>
-            <li><h3> <a href="#">+91-11-25074065</a></h3>
-                                        <h3><a href="#">+91-9899990261</a></h3>
-                                       <h3> <a href="#">+91-8447755155</a></h3>
+            <li><h3> <a href="tel:+919991923636">+919991923636</a></h3>
+                                        <h3><a href="tel:+919910750994">+919910750994</a></h3>
+                                      
             </li>
         </ul>
         <div class="map_section">
@@ -108,7 +108,8 @@ ul.contact_us{ display:inline-block; list-style:none; width:100%;
 background:gray url("http://www.ascentsolution.com/img/home-slider/foot.png") repeat 0 0;
 text-align:center; padding:40px 0px; margin:20px 0px;opacity:0.7; z-index:-1;
 }
-ul.contact_us li h3{text-transform: lowercase; font-size:14px;}
+ul.contact_us li h3{text-transform: lowercase; font-size:14px; color:#ffffff;}
+ul.contact_us li h3 a,ul.contact_us li h3 a:hover{color:#ffffff;}
 ul.contact_us li{ min-height:200px; vertical-align: text-bottom;  z-index:1;  display:inline-block; width:29%; background:rgba(59,59,61, 0.8); color:#ffffff !important; margin-right:20px; text-align:left; padding:2%; box-sizing:border-box;}
 @media only screen and (max-width: 767px) {
 .bgimg-3{    background-size: 100% 100%;    height: 150px;}

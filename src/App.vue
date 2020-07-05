@@ -45,8 +45,8 @@ alt="Lightweight UI components for Vue.js based on Bulma"
           <div class="hiring_block">
             <h3>For Hiring Solutions</h3>
             <div class="line"></div>
-             <h4>Drop an Email  : <a href="tel:555-555-5555">555-555-5555</a></h4>
-              <h4><a href="mailto:webmaster@example.com"> webmaster@example.com</a></h4>
+             <h4>Drop an Email  : <br/><a href="tel:+919991923636">+919991923636</a><br/><a href="tel:+919910750994">+919910750994</a></h4>
+              <h4><a href="mailto:sales@onpointhr.in"> sales@onpointhr.in</a></h4>
           </div>
           <div class="touch_block">
             <h3>GET IN TOUCH</h3>
